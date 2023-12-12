@@ -1,0 +1,74 @@
+1) What does the `rm` command in the terminal do?
+
+Your answer:
+The rm command is short for remove and it removes files, folders, and etc from file system.
+
+------------------
+2) What terminal command would you use to list all the files and folder in the 
+   current directory?
+
+Your answer:
+the 'ls' command 
+
+
+------------------
+3) Explain the difference between these two commands in the terminal:
+   
+   $ cd Users
+   $ cd /Users
+
+Your answer:
+$ cd Users: will change to a folder and/or directory named "data" in current directory and is a relative path.
+$ cd /Users: will change to a folder and/or directory named "data" in root directory. It is also an absolute path.
+
+
+------------------
+4) Describe what git is and what it is used for.
+
+Your answer:
+Git is basically an open source Verison Control that tracks changes and keeps earlier versions of files/project(s) if you need to look back.
+
+------------------
+5) Describe what GitHub is and what it is used for.
+
+Your answer:
+a cloud based verison control, it is used for coding and collaborations for groups.
+
+------------------
+6) Which of these commands sets up a new git repository?
+    a) git clone 
+    b) git pull
+    c) git init
+    d) git status
+
+Your answer:
+c) git init
+------------------
+7) You want to check that you have properly added all the files you want to be
+   tracked in git BEFORE you make a commit. Which command will do this?
+     a) git push
+     b) git commit
+     c) git status
+     d) git remote
+
+Your answer:
+c) git status
+
+------------------
+8) What is the difference between `git add` and `git commit`?
+
+Your answer:
+'Git add' adds file/folder/project to git repository but isn't tracking it yet. 'Git commit' offically tells git to start tracking the file now
+
+------------------
+9) What does the `git push` command do?
+
+Your answer:
+'Git push' takes a local repository and moves it to a remote one.
+
+------------------
+10) When would you use the `git clone` command?
+
+Your answer:
+You would use "git clone" if you wanted to copy an existing repository and add it to a new folder or repository.
+
